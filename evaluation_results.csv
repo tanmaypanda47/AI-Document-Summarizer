@@ -1,0 +1,4 @@
+Metric,Score
+ROUGE-1,0.5455
+ROUGE-2,0.2
+ROUGE-L,0.5455

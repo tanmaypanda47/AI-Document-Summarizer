@@ -1,0 +1,10 @@
+Meeting Notes
+
+Project Status:
+- Summarizer backend completed
+- Streamlit dashboard under development
+
+Action Items:
+- Add FastAPI integration
+- Add ROUGE metrics
+- Deploy on Render
